@@ -1,0 +1,733 @@
+/* 背景色 */
+/* 红色 */
+.bg_indiared {
+	background-color: #CD5C5C;
+}
+
+.bg_lightcoral {
+	background-color: #F08080;
+}
+
+.bg_salmon {
+	background-color: #FA8072;
+}
+
+.bg_darksalmon {
+	background-color: #E9967A;
+}
+
+.bg_lightsalmon {
+	background-color: #FFA07A;
+}
+
+.bg_crimson {
+	background-color: #DC143C;
+}
+
+.bg_red {
+	background-color: #FF0000;
+}
+
+.bg_fireBrick {
+	background-color: #B22222;
+}
+
+.bg_darkred {
+	background-color: 8B0000;
+}
+
+/* 粉色 */
+.bg_pink {
+	background-color: #FFC0CB;
+}
+
+.bg_lightpink {
+	background-color: #FFB6C1;
+}
+
+.bg_hotpink {
+	background-color: #FF69B4;
+}
+
+.bg_deeppink {
+	background-color: #FF1493;
+}
+
+.bg_mediumvioletred {
+	background-color: #C71585;
+}
+
+.bg_palevioletred {
+	background-color: #DB7093;
+}
+
+/* 橙色 */
+.bg_lightsalmon {
+	background-color: #FFA07A;
+}
+
+.bg_coral {
+	background-color: #FF7F50;
+}
+
+.bg_tomato {
+	background-color: #FF6347;
+}
+
+.bg_orangered {
+	background-color: #FF4500;
+}
+
+.bg_darkorange {
+	background-color: #FF8C00;
+}
+
+.bg_orange {
+	background-color: #FFA500;
+}
+
+/* 黄色 */
+.bg_gold {
+	background-color: #FFD700;
+}
+
+.bg_yellow {
+	background-color: #FFFF00;
+}
+
+.bg_lightyellow {
+	background-color: #FFFFE0;
+}
+
+.bg_lemonchiffon {
+	background-color: #FFFACD;
+}
+
+.bg_lightgoldenrodyellow {
+	background-color: #FAFAD2;
+}
+
+.bg_papayawhip {
+	background-color: #FFEFD5;
+}
+
+.bg_khaki {
+	background-color: #F0E68C;
+}
+
+/* 紫色 */
+.bg_lavender {
+	background-color: E6E6FA;
+}
+
+.bg_thihtle {
+	background-color: #D8BFD8;
+}
+
+.bg_plum {
+	background-color: #DDA0DD;
+}
+
+.bg_violet {
+	background-color: #EE82EE;
+}
+
+.bg_fuchsia {
+	background-color: #FF00FF;
+}
+
+/* 绿色 */
+.bg_greenyellow {
+	background-color: #ADFF2F;
+}
+
+.bg_chartreuse {
+	background-color: #7FFF00;
+}
+
+.bg_lawngreen {
+	background-color: #7CFC00;
+}
+
+.bg_limegreen {
+	background-color: #32CD32;
+}
+
+.bg_palegreen {
+	background-color: #98FB98;
+}
+
+.bg_springgreen {
+	background-color: #00FF7F;
+}
+
+.bg_seagreen {
+	background-color: #2E8B57;
+}
+
+.bg_forestgreen {
+	background-color: #228B22;
+}
+
+.bg_green {
+	background-color: #008000;
+}
+
+.bg_darkgreen {
+	background-color: #006400;
+}
+
+/* 蓝色 */
+.bg_aqua {
+	background-color: #00FFFF;
+}
+
+.bg_lightcyan {
+	background-color: #E0FFFF;
+}
+
+.bg_paleturquoise {
+	background-color: AFEEEE;
+}
+
+.bg_aquamarine {
+	background-color: #7FFFD4;
+}
+
+.bg_turquoise {
+	background-color: #40E0D0;
+}
+
+.bg_darkturquoise {
+	background-color: #00CED1;
+}
+
+.bg_steelblue {
+	background-color: #4682B4;
+}
+
+.bg_skyblue {
+	background-color: #87CEEB;
+}
+
+.bg_lightskyblue {
+	background-color: #87CEFA;
+}
+
+.bg_deepskyblie {
+	background-color: #00BFFF;
+}
+
+.bg_dodgerblue {
+	background-color: #1E90FF;
+}
+
+.bg_comflowerblue {
+	background-color: #6495ED;
+}
+
+.bg_royalblue {
+	background-color: #4169E1;
+}
+
+.bg_blue {
+	background-color: #0000FF;
+}
+
+.bg_mediumblue {
+	background-color: #0000CD;
+}
+
+.bg_darkblue {
+	background-color: #00008B;
+}
+
+.bg_navy {
+	background-color: #000080;
+}
+
+.bg_midnightblue {
+	background-color: #191970;
+}
+
+/* 褐色 */
+.bg_cornsilk {
+	background-color: #FFF8DC;
+}
+
+.bg_bisque {
+	background-color: #FFE4C4;
+}
+
+.bg_navajowhite {
+	background-color: #FFDEAD;
+}
+
+.bg_wheat {
+	background-color: #F5DEB3;
+}
+
+.bg_burtywood {
+	background-color: #DEB887;
+}
+
+.bg_tan {
+	background-color: #D2B48C;
+}
+
+.bg_rosybrown {
+	background-color: #BC8F8F;
+}
+
+.bg_sandybrown {
+	background-color: #F4A460;
+}
+
+.bg_goldenrod {
+	background-color: #DAA520;
+}
+
+.bg_darkgoldenrod {
+	background-color: #B8860B;
+}
+
+.bg_peru {
+	background-color: #CD853F;
+}
+
+.bg_chocolate {
+	background-color: #D2691E;
+}
+
+.bg_saddlebrown {
+	background-color: #8B4513;
+}
+
+.bg_sienna {
+	background-color: #A0522D;
+}
+
+.bg_brown {
+	background-color: #A52A2A;
+}
+
+.bg_maroon {
+	background-color: #800000;
+}
+
+/* 白色 */
+.bg_white {
+	background-color: #FFFFFF;
+}
+
+.bg_snow {
+	background-color: #FFFAFA;
+}
+
+/* 灰色 */
+.bg_gainsboro {
+	background-color: #DCDCDC;
+}
+
+.bg_lightgery {
+	background-color: #D3D3D3;
+}
+
+.bg_silver {
+	background-color: #C0C0C0;
+}
+
+.bg_darkgray {
+	background-color: #A9A9A9;
+}
+
+.bg_gray {
+	background-color: #808080;
+}
+
+.bg_dimgray {
+	background-color: #696969;
+}
+
+.bg_lightslategray {
+	background-color: #778899;
+}
+
+.bg_slategray {
+	background-color: #708090;
+}
+
+.bg_darkslategray {
+	background-color: #2F4F4F;
+}
+
+.bg_black {
+	background-color: #000000;
+}
+
+/* 前景色 */
+/* 红色 */
+.indiared {
+	color: #CD5C5C;
+}
+
+.lightcoral {
+	color: #F08080;
+}
+
+.salmon {
+	color: #FA8072;
+}
+
+.darksalmon {
+	color: #E9967A;
+}
+
+.lightsalmon {
+	color: #FFA07A;
+}
+
+.crimson {
+	color: #DC143C;
+}
+
+.red {
+	color: #FF0000;
+}
+
+.fireBrick {
+	color: #B22222;
+}
+
+.darkred {
+	color: 8B0000;
+}
+
+/* 粉色 */
+.pink {
+	color: #FFC0CB;
+}
+
+.lightpink {
+	color: #FFB6C1;
+}
+
+.hotpink {
+	color: #FF69B4;
+}
+
+.deeppink {
+	color: #FF1493;
+}
+
+.mediumvioletred {
+	color: #C71585;
+}
+
+.palevioletred {
+	color: #DB7093;
+}
+
+/* 橙色 */
+.lightsalmon {
+	color: #FFA07A;
+}
+
+.coral {
+	color: #FF7F50;
+}
+
+.tomato {
+	color: #FF6347;
+}
+
+.orangered {
+	color: #FF4500;
+}
+
+.darkorange {
+	color: #FF8C00;
+}
+
+.orange {
+	color: #FFA500;
+}
+
+/* 黄色 */
+.gold {
+	color: #FFD700;
+}
+
+.yellow {
+	color: #FFFF00;
+}
+
+.lightyellow {
+	color: #FFFFE0;
+}
+
+.lemonchiffon {
+	color: #FFFACD;
+}
+
+.lightgoldenrodyellow {
+	color: #FAFAD2;
+}
+
+.papayawhip {
+	color: #FFEFD5;
+}
+
+.khaki {
+	color: #F0E68C;
+}
+
+/* 紫色 */
+.lavender {
+	color: E6E6FA;
+}
+
+.thihtle {
+	color: #D8BFD8;
+}
+
+.plum {
+	color: #DDA0DD;
+}
+
+.violet {
+	color: #EE82EE;
+}
+
+.fuchsia {
+	color: #FF00FF;
+}
+
+/* 绿色 */
+.greenyellow {
+	color: #ADFF2F;
+}
+
+.chartreuse {
+	color: #7FFF00;
+}
+
+.lawngreen {
+	color: #7CFC00;
+}
+
+.limegreen {
+	color: #32CD32;
+}
+
+.palegreen {
+	color: #98FB98;
+}
+
+.springgreen {
+	color: #00FF7F;
+}
+
+.seagreen {
+	color: #2E8B57;
+}
+
+.forestgreen {
+	color: #228B22;
+}
+
+.green {
+	color: #008000;
+}
+
+.darkgreen {
+	color: #006400;
+}
+
+/* 蓝色 */
+.aqua {
+	color: #00FFFF;
+}
+
+.lightcyan {
+	color: #E0FFFF;
+}
+
+.paleturquoise {
+	color: AFEEEE;
+}
+
+.aquamarine {
+	color: #7FFFD4;
+}
+
+.turquoise {
+	color: #40E0D0;
+}
+
+.darkturquoise {
+	color: #00CED1;
+}
+
+.steelblue {
+	color: #4682B4;
+}
+
+.skyblue {
+	color: #87CEEB;
+}
+
+.lightskyblue {
+	color: #87CEFA;
+}
+
+.deepskyblie {
+	color: #00BFFF;
+}
+
+.dodgerblue {
+	color: #1E90FF;
+}
+
+.comflowerblue {
+	color: #6495ED;
+}
+
+.royalblue {
+	color: #4169E1;
+}
+
+.blue {
+	color: #0000FF;
+}
+
+.mediumblue {
+	color: #0000CD;
+}
+
+.darkblue {
+	color: #00008B;
+}
+
+.navy {
+	color: #000080;
+}
+
+.midnightblue {
+	color: #191970;
+}
+
+/* 褐色 */
+.cornsilk {
+	color: #FFF8DC;
+}
+
+.bisque {
+	color: #FFE4C4;
+}
+
+.navajowhite {
+	color: #FFDEAD;
+}
+
+.wheat {
+	color: #F5DEB3;
+}
+
+.burtywood {
+	color: #DEB887;
+}
+
+.tan {
+	color: #D2B48C;
+}
+
+.rosybrown {
+	color: #BC8F8F;
+}
+
+.sandybrown {
+	color: #F4A460;
+}
+
+.goldenrod {
+	color: #DAA520;
+}
+
+.darkgoldenrod {
+	color: #B8860B;
+}
+
+.peru {
+	color: #CD853F;
+}
+
+.chocolate {
+	color: #D2691E;
+}
+
+.saddlebrown {
+	color: #8B4513;
+}
+
+.sienna {
+	color: #A0522D;
+}
+
+.brown {
+	color: #A52A2A;
+}
+
+.maroon {
+	color: #800000;
+}
+
+/* 白色 */
+.white {
+	color: #FFFFFF;
+}
+
+.snow {
+	color: #FFFAFA;
+}
+
+/* 灰色 */
+.gainsboro {
+	color: #DCDCDC;
+}
+
+.lightgery {
+	color: #D3D3D3;
+}
+
+.silver {
+	color: #C0C0C0;
+}
+
+.darkgray {
+	color: #A9A9A9;
+}
+
+.gray {
+	color: #808080;
+}
+
+.dimgray {
+	color: #696969;
+}
+
+.lightslategray {
+	color: #778899;
+}
+
+.slategray {
+	color: #708090;
+}
+
+.darkslategray {
+	color: #2F4F4F;
+}
+
+.black {
+	color: #000000;
+}

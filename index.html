@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="Cache-Control" content="max-age=7200" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+		<meta content="always" name="referrer">
+		<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,viewport-fit=cover">
+		<title>项目模板</title>
+		<link rel="stylesheet" type="text/css" href="./css/reset.css" />
+		<link rel="stylesheet" type="text/css" href="./css/widthheight.css" />
+		<link rel="stylesheet" type="text/css" href="./css/color.css" />
+		<script>
+			(function(d) {
+				var src_arr = [
+					/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)?'js/rem':'',
+					/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)?'js/zepto/zepto.min':'js/jquery/jquery.min',
+					'config',
+					'js/page',
+					'js/app',
+					'pages/enter',
+					'pages/login',
+					'pages/register'
+				];
+				for(var i = 0 ,len = src_arr.length;i < len;i++){
+					var item = src_arr[i];
+					if(item!=='')
+						d.write("<script src='" + item + "\.js'><\/script>");
+				}
+			}(document));
+		</script>
+		<style>
+			header{
+				display: flex;
+				height: 1rem;
+			}
+			.header_back{
+				border: 1px solid red;
+				cursor: pointer;
+			}
+			.header_title{
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<!-- <div id='app' class="h500"></div> -->
+		<script>
+			var app = new App();		
+			app.initialize(null, indexPage);
+			// app.render(indexPage);
+		</script>
+
+	</body>
+</html>
